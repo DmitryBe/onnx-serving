@@ -1,6 +1,6 @@
 # onnx-serving 
 
-onnx-serving is an extensible, general-purpose component for serving non-TensorFlow ML models that provides TFS compatible endpoint.
+onnx-serving uses ONNX runtime for serving non-TensorFlow models and provides TFS compatible gRPC endpoint.
 
 About Onnx: https://onnx.ai/
 
