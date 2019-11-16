@@ -1,0 +1,7 @@
+model_config_list: {
+  config: {
+    name: 'gs-match-pred'
+    base_path: 's3://grab-ds-users/dmitry.b/onnx-serving/test-model/models/'
+    model_platform: 'onnx'
+  }
+}

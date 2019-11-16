@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "/Users/dmitry.bezyazychnyy/git/myteksi/architecture/onnx-serving"
+		}
+	],
+	"settings": {		
+		"python.pythonPath": ".py37/bin/python3.7",
+		"python.envFile": "${workspaceFolder}/.env"
+	}
+}
